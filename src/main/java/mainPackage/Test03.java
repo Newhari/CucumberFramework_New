@@ -7,7 +7,5 @@ public class Test03 {
 		int b=30;
 		int c=40;
 		System.out.println(a+b+c);
-
 	}
-
 }
